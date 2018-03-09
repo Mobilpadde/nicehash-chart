@@ -1,0 +1,11 @@
+{
+  "name": "nicehash-chart",
+  "version": "0.0.1",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@gribnoysup/wunderbar": "^1.0.4",
+    "got": "^8.2.0",
+    "string-to-color": "^2.0.0"
+  }
+}
